@@ -1,0 +1,1 @@
+This code is for the Arduino Mega. This is code works for me but might not work for everyone. If you plan to use this code use it at your own risk.
